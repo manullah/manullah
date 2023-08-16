@@ -29,5 +29,5 @@
 
 [linkedin]: https://www.linkedin.com/in/muhammad-imanullah-b3088517b/
 [medium]: https://medium.com/@mimanullah
-[nextjs-example]: [https://medium.com/@mimanullah](https://github.com/manullah/nextjs-example)https://github.com/manullah/nextjs-example
+[nextjs-example]: https://github.com/My-Kakeibo/kakeibopocket-backoffice
 [nestjs-example]: https://github.com/manullah/nestjs-example
