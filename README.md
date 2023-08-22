@@ -30,4 +30,4 @@
 [linkedin]: https://www.linkedin.com/in/muhammad-imanullah-b3088517b/
 [medium]: https://medium.com/@mimanullah
 [nextjs-example]: https://github.com/My-Kakeibo/kakeibopocket-backoffice
-[nestjs-example]: https://github.com/manullah/nestjs-example
+[nestjs-example]: https://github.com/My-Kakeibo/kakeibopocket-api
