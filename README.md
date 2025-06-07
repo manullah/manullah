@@ -1,7 +1,7 @@
 # Hello, World!
 
 -   🌱 I’m currently doing as **Front-end Engineer**
--   📫 How to reach me **mimanullah@gmail.com**
+-   📫 How to reach me **mimanullah26@gmail.com**
 
 ## 📝 Get In Touch
 
